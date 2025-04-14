@@ -14,7 +14,7 @@ list_of_files = [
     f"hate/configuration/__init__.py",
     f"hate/constants/__init__.py",
     f"hate/entity/__init__.py",
-    f"shate/exception/__init__.py",
+    f"hate/exception/__init__.py",
     f"hate/logger/__init__.py",
     f"hate/ml/__init__.py",
     f"hate/pipeline/__init__.py",
